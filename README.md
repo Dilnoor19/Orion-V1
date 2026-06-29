@@ -157,4 +157,4 @@ GitHub: [github.com/dilnoor19](https://github.com/dilnoor19)
 
 ## License
 
-MIT
+This project is open source and available under the MIT License.
