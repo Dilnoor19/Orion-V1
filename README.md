@@ -1,4 +1,4 @@
-# Orion v1 — AI Voice Assistant
+# Orion v1 — System Ai
 
 > The successor to [Friday](https://github.com/dilnoor19/friday).  
 > Smarter, more reliable, and built to actually feel like a personal assistant — not a demo project.
